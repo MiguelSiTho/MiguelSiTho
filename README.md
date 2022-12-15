@@ -33,7 +33,9 @@
 </h3>
 </div>
 
-![aaa](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) <br>
+<p>(Studying on: CodeShow and rust Lang BR channels)</p>
+
 ##
 <div>
   <h3 align="center">
@@ -41,9 +43,12 @@
   </h3>
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white"/>
+  <img src=	https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white"/>
 </div
   
 ##
@@ -67,6 +72,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSiTho&theme=cobalt"/> <br>
   <img src="https://img.shields.io/github/followers/MiguelSiTho.svg?style=social&label=Follow&maxAge=2592000" align="left"/>
   <img src="https://komarev.com/ghpvc/?username=your-github-MiguelSiTho" align="right"/>
+    
 </div>
   
 ##
