@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello people!
+  Hello, World
 </h1>
 
 <h3 align="center">
